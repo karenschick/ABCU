@@ -1,5 +1,5 @@
 # ABCU
-##What was the problem you were solving in the projects for this course?
+## What was the problem you were solving in the projects for this course?
 The primary goal of this project was to build an advising tool for the Computer Science department at ABCU. The program reads course data from a CSV file, stores the information into a vector data structure, and allows users to either search for a course or view all courses in alphanumeric order. 
 
 ## How did you approach the problem? Consider why data structures are important to understand.
